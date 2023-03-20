@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "press2influx",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

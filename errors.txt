@@ -1,0 +1,7 @@
+ello from the docker container
+Error __init__() got an unexpected keyword argument 'token'
+Hello from the docker container
+Error __init__() got an unexpected keyword argument 'token'
+Hello from the docker container
+Error __init__() got an unexpected keyword argument 'token'
+Hello from the docker container^C^C^C^C^C^C^C^Z
